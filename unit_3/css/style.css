@@ -1,3 +1,10 @@
+body{
+	color: #28996F;
+}
+h1{
+	text-align: center;
+	color: #78D4B2;
+}
 #slogan{
-	background-image: url("images/koreaprof.jpg");
+	font-style: italic;
 }
