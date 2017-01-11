@@ -1,12 +1,10 @@
+body{
+	color: #28996F;
+}
 h1{
 	text-align: center;
 	color: #71FD08;
 }
-
-body{
-	color: #28996F;
-}
-
 #slogan{
 	font-style: italic;
 }
