@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed|PT+Serif');
+body{
+	color: #28996F;
+}
+h1{
+	font-family: 'PT Serif', serif;
+	text-align: center;
+	color: #781D08;
+}
+p{
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+#slogan{
+	font-style: italic;
+}
