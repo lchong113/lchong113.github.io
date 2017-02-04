@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed|PT+Serif');
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div, section{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body{
+	color: #28996F;
+}
+h1{
+	font-family: 'PT Serif', serif;
+	text-align: center;
+	color: #781D08;
+}
+p{
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+#slogan{
+	font-style: italic;
+}
