@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed|PT+Serif');
+
+header{
+	text-align: center;
+	background-color: #252729;
+}
+
+aside{
+	padding: 20px 0 20px 0;
+}
+
+article{
+	border: 1px #252729 solid;
+	padding: 20px;
+}
+
+footer{
+	background-color: #252729;
+}
+
+section{
+	border: 1px #252729 solid;
+	padding: 20px;
+}
+
+body{
+	color: #818284;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+h1{
+	font-family: 'PT Serif', serif;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 20px 20px 0 20px;
+}
+
+h2{
+	text-align: center;
+	color: #252729;
+	font-family: 'PT Serif', serif;
+}
+
+p{
+	padding: 20px;
+}
+
+img{
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav{
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+#slogan{
+	font-style: italic;
+	color: #FFFFFF;
+	padding: 0px 20px 20px 20px;
+}
+
+#three_column{
+	padding: 20px;
+}
+
+#first{
+	border: 1px #252729 solid;
+	padding: 10px;
+	float: left;
+	width: 30%;
+	margin: 10px;
+}
+
+#second{
+	border: 1px #252729 solid;
+	padding: 10px;
+	float: left;
+	width: 30%;
+	margin: 10px;
+}
+
+#third{
+	border: 1px #252729 solid;
+	padding: 10px;
+	float: left;
+	width: 30%;
+	margin: 10px;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#contact{
+	float: left;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+#copyright{
+	float: right;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+a{
+	padding: 20px;
+}
+
+a:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:active{
+	color: #818284;
+}
+
+a:visited{
+	color: #FFFFFF;
+}
+
+a:hover{
+	color: #818284;
+}
+
+a.home:hover{
+	color: #FFFFFF;
+}
+
